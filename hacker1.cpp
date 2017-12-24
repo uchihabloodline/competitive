@@ -20,8 +20,8 @@
 
        cin>>t2;
 
-          vector<int> v2;                  //for second player
-          int mx=INT_MIN;
+          vector<int> v2;                  //for second player 
+          int mx=INT_MIN;			//changes for git hehehe
            for(i=0;i<t2;i++){
             int tem=0;
          scanf("%d",&tem);
